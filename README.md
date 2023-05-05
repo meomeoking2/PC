@@ -1,7 +1,7 @@
 
 # MiniProject
 <div align="center">
-<p align="center"><img src="https://cdn.pixabay.com/photo/2017/08/30/07/56/clock-2696234_1280.jpg"></p>
+<p align="center"><img src="https://cdn.pixabay.com/photo/2017/08/30/07/56/clock-2696234_1280.jpg" height="300px" width="500px"></p>
 
  ### Welcome, This is Han Manage
  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
