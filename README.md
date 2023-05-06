@@ -69,6 +69,7 @@ void team_in_age(student *a,int n, int n1, int n2); //나이로 분류하여 팀
 ## 🏢 개발환경 및 언어
   - git 
   - vs code
+  - C
 
 <br/>
 
